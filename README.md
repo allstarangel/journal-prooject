@@ -16,7 +16,7 @@ This is a command-line journal application that allows users to create, edit, an
 ## Installation
 1. Clone the repository:
    ```
-   
+   git@github.com:allstarangel/journal-prooject.git
    ```
 
 ## Usage
